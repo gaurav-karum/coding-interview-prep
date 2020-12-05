@@ -1,4 +1,4 @@
-# coding-interview-prep
+# some_resources
 
 ## cp templates 
   cp_temp1.cpp and cp_temp2.cpp
